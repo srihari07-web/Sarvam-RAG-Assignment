@@ -1,6 +1,6 @@
 # A RAG System for NCERT Lesson Sound
 
-![Header Image]('rag.png')
+![Header Image](rag.png)
 
 
 ## Table of Contents
