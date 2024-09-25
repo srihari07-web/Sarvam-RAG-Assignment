@@ -83,7 +83,7 @@ Make sure you have the following installed on your machine:
    ```bash
    npm start
    ```
-   The server should now be running on [http://localhost:8000](http://localhost:8000).
+   The server should now be running on [http://localhost:5173](http://localhost:5173).
 
 5. **Testing the Endpoints**
    You can test the backend endpoints using tools like [Postman](https://www.postman.com/) or [curl](https://curl.se/).
