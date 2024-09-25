@@ -1,5 +1,8 @@
 # RAG System with Smart Agent
 
+![Header Image]('./rag.png')
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
