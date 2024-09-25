@@ -12,7 +12,7 @@
   - [Frontend Setup Instructions](#frontend-setup-instructions)
 - [Endpoints](#endpoints)
 - [Usage](#usage)
-- [Optional Features](#optional-features)
+
 - [License](#license)
 
 ## Introduction
