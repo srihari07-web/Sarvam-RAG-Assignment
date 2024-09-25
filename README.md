@@ -1,4 +1,4 @@
-# RAG System with Smart Agent
+# A RAG System for NCERT Lesson Sound
 
 ## Table of Contents
 - [Introduction](#introduction)
